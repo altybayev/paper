@@ -1,18 +1,18 @@
 {
-    "name": "cnvs/paper",
+    "name": "altybayev/paper-ppp",
     "description": "Canvas Default Appearance",
     "keywords": ["canvas", "theme", "paper"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Todd Austin",
-            "email": "austin.todd.j@gmail.com"
+            "name": "Sanzhar Altybayev",
+            "email": "s.altybayev@gmail.com"
         }
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "PPP v1",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
