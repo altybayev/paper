@@ -1,6 +1,6 @@
 {
     "name": "altybayev/paper-ppp",
-    "description": "Canvas Default Appearance",
+    "description": "Canvas Template Appearance based on Paper by Todd Austin <austin.todd.j@gmail.com>",
     "keywords": ["canvas", "theme", "paper"],
     "type": "canvas-theme",
     "license": "MIT",
